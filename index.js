@@ -1,5 +1,9 @@
-//https://expressjs.com/en/starter/hello-world.html
+//Thử thêm dòng log đầu file
 
+//Thử edit lần 2
+
+
+//https://expressjs.com/en/starter/hello-world.html
 const express = require('express')
 
 const port = 3000
